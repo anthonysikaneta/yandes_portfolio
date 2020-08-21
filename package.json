@@ -1,0 +1,14 @@
+{
+  "name": "crav_3",
+  "version": "1.0.0",
+  "description": "crav_3 portfolio website for Yande Mwila",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Paperless: Anthony Sikaneta",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
